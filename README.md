@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yu Lin @yl-code-it
 - 👀 I’m interested in machine learning, machine vision, robotics, sensing, etc.
-- 🌱 I’m currently learning deep learning on machine vision.
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning deep reinforcement learning.
+- 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 How to reach me ...
 
 <!---
